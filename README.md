@@ -1,0 +1,1 @@
+Solutions to the puzzles at: http://adventofcode.com/
